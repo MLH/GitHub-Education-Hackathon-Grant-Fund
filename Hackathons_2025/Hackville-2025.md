@@ -1,5 +1,4 @@
-# Hackville 2025
-> Provide a description of your event, including but _not_ limited to: <br>
+# Hackville 2025 
  - **January 17-19**
  - **Sheridan College / Hackville**
  - **Mississauga, Canada**  
@@ -16,7 +15,7 @@ Hackville 2025 received 155 sign-ups, and 136 hackers submitted projects over th
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{155}|{~60}|[33 submitted projects](https://hackville2025.devpost.com/project-gallery)| 
+|155|~60|[33 submitted projects](https://hackville2025.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -24,14 +23,13 @@ Hackville 2025 received 155 sign-ups, and 136 hackers submitted projects over th
 Hackville welcomed students from Computer Science, Interaction Design, and related disciplines across the GTA. Among our 155 participants, 70% identified as male, 26.6% as female, and 3.4% as non-binary or prefer not to say. The event was beginner-friendly, with 38% attending their first hackathon.
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{0 of hackers}|{3 of hackers}|{3 of hackers}|{121 of hackers}|{10 of hackers}|
+| Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
+|--------------:|------------:|---------:|--------:|
+|3 of hackers|3 of hackers|121 of hackers|10 of hackers|
 
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
+
 All of our participants were students from the Greater Toronto Area in Canada.
 
 ## Impact of GitHub Grant
@@ -54,11 +52,11 @@ The team built BearTracks with React/Vite, Express.js, Node.js, and Figma, and m
 |:--:|
 | <b> Hackers gathering to kick off Hackville! </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images//hackviile5.JPG" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/Hackville5.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hacking in progress! </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/Hackville4.JPG" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/Hackville4.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hackers showcasing their projects! </b>|
 
