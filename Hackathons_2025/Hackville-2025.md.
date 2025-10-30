@@ -1,0 +1,67 @@
+# Hackville 2025
+> Provide a description of your event, including but _not_ limited to: <br>
+ - **January 17-19**
+ - **Sheridan College / Hackville**
+ - **Mississauga, Canada**  
+
+## Event Summary
+
+Hackville 2025 was Sheridan’s flagship 36-hour hackathon, bringing together over 200 students from Interaction Design, Computer Science, and other disciplines to collaborate on innovative software solutions. What made our event special was the focus on bridging designers and developers through workshops, mini-events, and networking opportunities that fostered long-lasting connections. GitHub played a central role at the hackathon as teams used it for collaboration and version control, mentors introduced best practices, and we proudly showcased GitHub as a sponsor throughout the event.
+[![Hackville group photo](https://lh3.googleusercontent.com/pw/AP1GczPD001uzOuNOMmPHyPWyMHY9vHEPH7nCjIxZcLKoVFuvXjEdTH0HR9IFC_uTRHVroOcD1ugdQPRFAEQJC4GVyMaL_vuG3azza-8Sl984JWaJG9uwGmUbMpcPSV3lk1cp6ZVDH67kQdSbekebaDYvNh9=w2646-h1764-s-no-gm?authuser=0)](https://your-destination-link.com)
+
+
+## Event Metrics 
+> Feel free to include any other metrics that you think may be important or applicable.
+Hackville 2025 received 155 sign-ups, and 136 hackers submitted projects over the 36-hour sprint. We offered CAD $3,950 in prizes to reward creativity and impact.
+
+| Attendees |First Time Hackers| Projects|
+|---------------:|--------------:|------------:|
+|{155}|{~60}|[33 submitted projects](https://hackville2025.devpost.com/project-gallery)| 
+
+## Tech Impact / Diversity 
+
+### Tell us about your hacker demographics
+Hackville welcomed students from Computer Science, Interaction Design, and related disciplines across the GTA. Among our 155 participants, 70% identified as male, 26.6% as female, and 3.4% as non-binary or prefer not to say. The event was beginner-friendly, with 38% attending their first hackathon.
+
+### What race & ethnicities did your hackers identify as?
+| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
+|---------------:|--------------:|------------:|---------:|--------:|
+|{0 of hackers}|{3 of hackers}|{3 of hackers}|{121 of hackers}|{10 of hackers}|
+
+
+### Where were your hackers from?
+| Asia Pacific | North America | Europe / UK | Other |
+|---------------:|--------------:|------------:|---------:|
+All of our participants were students from the Greater Toronto Area in Canada.
+
+## Impact of GitHub Grant
+The GitHub grant helped us provide food, prizes, and workshops for 155 attendees, creating a more inclusive and beginner-friendly environment. This support gave many first-time hackers the confidence to complete and submit their projects.
+
+## Top Projects
+The 1st place project was BearTracks, an interactive 3D campus map for Sheridan built as a progressive web app. Using the Mapbox API, students can explore categorized landmarks such as study spots, offices, food places, and parking, complete with details like hours and links. The app also features AI Bruno the Bruin, a chatbot guide that helps students navigate campuses in a fun and intuitive way.<br>
+The team built BearTracks with React/Vite, Express.js, Node.js, and Figma, and managed their collaboration through GitHub, where they logged over 100 commits during development. GitHub played a crucial role in their workflow, enabling smooth version control and team contributions, which was essential in delivering a highly interactive and polished final product.
+[BearTracks on Devpost](https://devpost.com/software/beartracks-gk0d16?_gl=1*x3lzxo*_gcl_au*MTE5NzA2ODU3NS4xNzU4MjE4NjI2*_ga*MTA5NzE1OTc4NS4xNzU4MjE4NjI2*_ga_0YHJK3Y10M*czE3NTg2NTQ2OTAkbzQkZzEkdDE3NTg2NTQ5ODkkajYwJGwwJGgw)
+
+## Event Photos
+- We want to see how great your event was! <br>
+- Please include pictures and/or video of your event highlights! Use the format below: 
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/Hackville1.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Our MLH coach is presenting during the opening ceremony! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/Hackville2.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Hackers gathering to kick off Hackville! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images//hackviile5.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Hacking in progress! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/Hackville4.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Hackers showcasing their projects! </b>|
+
+## What’s Next?
+Hackville 2025 was a huge success, with 155 students from the Greater Toronto Area creating 33 projects in just 36 hours. We are already planning Hackville 2026, which will take place in January 2026. Stay connected with us for updates and announcements!
+[Follow us on Instagram](https://www.instagram.com/sheridanhackville?utm_source=ig_web_button_share_sheet&igsh=MWI2ZXcwNnl4dG5wOQ==)
